@@ -10,6 +10,7 @@
 * log in with admin:shipyard
 
 ## Running the Shipyard project from master branch
+BROKEN
 * git checkout master
 *In the following lines change "/home/pieter/projecten/shipyard:/shipyard" to the correct path of your shipyard repo.
 * docker build . -f dind-compose.dockerfile  -t dind
