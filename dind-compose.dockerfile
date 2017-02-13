@@ -70,7 +70,7 @@ RUN echo \
 	
 RUN pip install requests && pip install docker-compose
 
-COPY docker-entrypoint.sh /usr/local/bin/
+COPY dockerd-entrypoint.sh /usr/local/bin/
 
 RUN chmod +x /usr/local/bin/dockerd-entrypoint.sh
 
