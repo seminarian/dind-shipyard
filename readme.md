@@ -18,4 +18,4 @@ BROKEN
 * In a new terminal tab:
 * docker exec dind docker-compose -f shipyard/docker-compose.yml up
 * Browse to http://localhost:8000
-* log in with admin:shipyard
+* log in with admin:shipyardaaaaaaaaaaaaaaaaaa
